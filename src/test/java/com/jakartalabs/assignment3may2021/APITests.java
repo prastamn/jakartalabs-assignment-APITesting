@@ -13,7 +13,7 @@ import io.restassured.response.Response;
 
 public class APITests extends BaseAPITest {
 
-	String authToken = "token not found";
+	String authToken;
 	String emailRegister;
 
 	@Test(priority = 1)

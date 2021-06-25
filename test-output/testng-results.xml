@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9373" started-at="2021-06-25T15:36:25Z" finished-at="2021-06-25T15:36:34Z">
+  <suite name="Default suite" duration-ms="9071" started-at="2021-06-25T15:43:18Z" finished-at="2021-06-25T15:43:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9373" started-at="2021-06-25T15:36:25Z" finished-at="2021-06-25T15:36:34Z">
+    <test name="Default test" duration-ms="9071" started-at="2021-06-25T15:43:18Z" finished-at="2021-06-25T15:43:27Z">
       <class name="com.jakartalabs.assignment3may2021.APITests">
-        <test-method status="PASS" signature="testRegisterAPI()[pri:1, instance:com.jakartalabs.assignment3may2021.APITests@207ea13]" name="testRegisterAPI" duration-ms="5984" started-at="2021-06-25T15:36:25Z" finished-at="2021-06-25T15:36:31Z">
+        <test-method status="PASS" signature="testRegisterAPI()[pri:1, instance:com.jakartalabs.assignment3may2021.APITests@207ea13]" name="testRegisterAPI" duration-ms="5950" started-at="2021-06-25T15:43:18Z" finished-at="2021-06-25T15:43:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegisterAPI -->
-        <test-method status="PASS" signature="verifyProfileAPI()[pri:2, instance:com.jakartalabs.assignment3may2021.APITests@207ea13]" name="verifyProfileAPI" duration-ms="1701" started-at="2021-06-25T15:36:31Z" finished-at="2021-06-25T15:36:33Z">
+        <test-method status="PASS" signature="verifyProfileAPI()[pri:2, instance:com.jakartalabs.assignment3may2021.APITests@207ea13]" name="verifyProfileAPI" duration-ms="1556" started-at="2021-06-25T15:43:24Z" finished-at="2021-06-25T15:43:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyProfileAPI -->
-        <test-method status="PASS" signature="logoutAPI()[pri:3, instance:com.jakartalabs.assignment3may2021.APITests@207ea13]" name="logoutAPI" duration-ms="1626" started-at="2021-06-25T15:36:33Z" finished-at="2021-06-25T15:36:34Z">
+        <test-method status="PASS" signature="logoutAPI()[pri:3, instance:com.jakartalabs.assignment3may2021.APITests@207ea13]" name="logoutAPI" duration-ms="1530" started-at="2021-06-25T15:43:25Z" finished-at="2021-06-25T15:43:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutAPI -->
