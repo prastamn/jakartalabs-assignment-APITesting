@@ -1,4 +1,4 @@
-package com.jakartalabs.assignment3may2021;
+package com.jakartalabs.assignment3may2021.tests;
 
 import static org.testng.Assert.assertEquals;
 

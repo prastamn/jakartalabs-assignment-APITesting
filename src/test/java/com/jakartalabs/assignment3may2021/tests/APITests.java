@@ -1,4 +1,4 @@
-package com.jakartalabs.assignment3may2021;
+package com.jakartalabs.assignment3may2021.tests;
 
 import static io.restassured.RestAssured.given;
 import static org.testng.Assert.assertEquals;
@@ -6,6 +6,8 @@ import static org.testng.Assert.assertEquals;
 import org.testng.annotations.Test;
 
 import com.google.gson.internal.LinkedTreeMap;
+import com.jakartalabs.assignment3may2021.APIEndpoints;
+import com.jakartalabs.assignment3may2021.JsonPaths;
 import com.jakartalabs.assignment3may2021.utils.DataUtils;
 import com.jakartalabs.assignment3may2021.utils.TestUtils;
 
