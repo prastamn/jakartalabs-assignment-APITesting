@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Web Test Suite" duration-ms="15806" started-at="2021-06-27T02:59:25Z" finished-at="2021-06-27T02:59:41Z">
+    <groups>
+    </groups>
+    <test name="Web Tests" duration-ms="15806" started-at="2021-06-27T02:59:25Z" finished-at="2021-06-27T02:59:41Z">
+      <class name="com.jakartalabs.assignment3may2021.tests.APITests">
+        <test-method status="PASS" signature="testRegisterAPI()[pri:1, instance:com.jakartalabs.assignment3may2021.tests.APITests@4d18aa28]" name="testRegisterAPI" duration-ms="7919" started-at="2021-06-27T02:59:25Z" finished-at="2021-06-27T02:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterAPI -->
+        <test-method status="PASS" signature="verifyProfileAPI()[pri:2, instance:com.jakartalabs.assignment3may2021.tests.APITests@4d18aa28]" name="verifyProfileAPI" duration-ms="2253" started-at="2021-06-27T02:59:33Z" finished-at="2021-06-27T02:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfileAPI -->
+        <test-method status="PASS" signature="logoutAPI()[pri:3, instance:com.jakartalabs.assignment3may2021.tests.APITests@4d18aa28]" name="logoutAPI" duration-ms="5571" started-at="2021-06-27T02:59:35Z" finished-at="2021-06-27T02:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAPI -->
+      </class> <!-- com.jakartalabs.assignment3may2021.tests.APITests -->
+    </test> <!-- Web Tests -->
+  </suite> <!-- Web Test Suite -->
+</testng-results>
